@@ -97,7 +97,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 121}
   m_MaxSize: {x: 4000, y: 4021}
   vertical: 0
-  controlID: 118
+  controlID: 107
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -446,7 +446,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -509,8 +509,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 026d0000
-      m_LastClickedID: 27906
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 14fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -527,7 +527,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 11}
+        m_ClientGUIView: {fileID: 0}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -807,7 +807,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0, y: 3.46, z: -36.079998}
     speed: 2
-    m_Value: {x: -0.000000097476054, y: 3.4600003, z: -36.079998}
+    m_Value: {x: 0, y: 3.46, z: -36.079998}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -856,11 +856,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.30064943, y: -0.22198297, z: 0.0703302, w: -0.9251445}
     speed: 2
-    m_Value: {x: -0.3004677, y: -0.22331402, z: 0.07076322, w: -0.92457694}
+    m_Value: {x: -0.3005735, y: -0.22192691, z: 0.07031244, w: -0.92491084}
   m_Size:
     m_Target: 0.8660254
     speed: 2
-    m_Value: 0.86602604
+    m_Value: 0.8660254
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1011,22 +1011,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Monster\Desktop\UNITY\ChickenAcademy\ChickenAcademyGithub\CountMasterClone
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0c750000
-    m_LastClickedID: 29964
-    m_ExpandedIDs: 00000000ba740000bc740000be740000d074000000ca9a3bffffff7f
+    m_SelectedIDs: d2740000
+    m_LastClickedID: 29906
+    m_ExpandedIDs: 00000000ba740000bc740000be740000d2740000a0780000a278000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
